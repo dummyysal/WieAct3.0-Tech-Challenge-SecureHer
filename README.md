@@ -1,4 +1,4 @@
-# ✨ SecureHer Chrome Extension
+# SecureHer Chrome Extension
    ![image](https://github.com/dummyysal/WieAct3.0-Tech-Challenge-SecureHer/SecureHerExtension/images/logo.jpg)
 
 Welcome to SecureHer! 🚀
@@ -11,10 +11,10 @@ A Chrome extension designed to detect online harassment and protect user privacy
 
 For the Shallowfake dataset utilized in our research paper, individual downloads are available through the following links:
 
-`Harassment Detection`: Using a TfidfVectorizer and LinearSVC machine learning model, the extension analyzes text to detect online harassment in real-time. Simply copy and paste the text into the extension’s input field, and SecureHer will flag any abusive language.
-`Link Security Check`: Identify if a link is malicious or safe to visit.
+-`Harassment Detection`: Using a TfidfVectorizer and LinearSVC machine learning model, the extension analyzes text to detect online harassment in real-time. Simply copy and paste the text into the extension’s input field, and SecureHer will flag any abusive language.
+-`Link Security Check`: Identify if a link is malicious or safe to visit.
                    or here (https://bit.ly/3nXyYJw)
-`User-Friendly Interface`: A clean, feminine, and beautiful design for enhanced user interaction.
+-`User-Friendly Interface`: A clean, feminine, and beautiful design for enhanced user interaction.
 
 
 
