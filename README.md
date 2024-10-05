@@ -22,7 +22,7 @@ For the Shallowfake dataset utilized in our research paper, individual downloads
 
 
 
-##  environment set up
+##  Environment set up
  - 1. Clone this repository:
 
 ```
@@ -46,11 +46,11 @@ then run the server
 python DetectionModelServer/app.py
 
 ```
-### 🛡️ Security & Privacy
+## 🛡️ Security & Privacy
 We value your privacy! No personal data is shared or stored. The harassment detection model runs locally in your browser, ensuring that your data remains private.
 
 
-### 🤝 Contributions
+## 🤝 Contributions
 We’d love your help to make SecureHer better! Contributions can include:
 
 🔧 Reporting bugs or issues
