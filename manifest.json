@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Harassment Detection & Privacy Protection",
+  "version": "1.0",
+  "permissions": [
+    "tabs", 
+    "scripting",
+    "storage",
+    "activeTab"
+  ],
+  "icons": {
+  "128": "images/logoo.png"
+        },
+
+  "host_permissions": [
+    "*://localhost/*"  
+  ],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
