@@ -1,5 +1,5 @@
 # SecureHer Chrome Extension
-   ![image](https://github.com/dummyysal/WieAct3.0-Tech-Challenge-SecureHer/SecureHerExtension/images/logo.jpg)
+
 
 Welcome to SecureHer! 🚀
 A Chrome extension designed to detect online harassment and protect user privacy during social media browsing. Created as part of the WieAct 3.0 Tech Challenge, SecureHer empowers users, especially women, by providing tools to stay safe and secure online.
