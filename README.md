@@ -4,9 +4,23 @@
 Welcome to SecureHer! 🚀
 A Chrome extension designed to detect online harassment and protect user privacy during social media browsing. Created as part of the WieAct 3.0 Tech Challenge, SecureHer empowers users, especially women, by providing tools to stay safe and secure online.
 
+## 🛠️ Project Structure
 
+│
+├── SecureHerExtension/      # Chrome extension source code
+│   ├── popup.html          # Main HTML file for the popup interface
+│   ├── popup.js            # JavaScript file handling the UI and interactions
+│   └── styles.css          # CSS file for styling the extension
+│
+├── DetectionModelServer/   # Backend server for the ML model
+│   ├── Online Harassment Detecting Models.ipynb            # Jupyter Notebook for the the Algorithms
+|   ├── app.py                                              # Flask API serving the ML model
+│   ├── model.pkl                                           # Pre-trained harassment detection model
+│   └── requirements.txt                                    # Python dependencies
+│
+└── README.md               # Project documentation
 
-## Key Features
+### Key Features
 
 
 
